@@ -14,41 +14,6 @@
 
 
 
-/* Anwender eigener Schriftart */
-@import url("https://use.typekit.net/yeo1ryt.css");
-
-@font-face{ 
-	font-family: 'DK Lemon Yellow Sun';
-	src: url('/fonts/Lemon_Yellow_Sun-webfont.eot');
-	src: url('/fonts/Lemon_Yellow_Sun-webfont.eot?#iefix') format('embedded-opentype'),
-	     url('/fonts/Lemon_Yellow_Sun-webfont.woff') format('woff'),
-	     url('/fonts/Lemon_Yellow_Sun-webfont.ttf') format('truetype'),
-	     url('/fonts/Lemon_Yellow_Sun-webfont.svg#webfont') format('svg');
-}
-
-h1, h2, h3, h4, h5, #footer-info, #top-menu li {
-    font-family: 'DK Lemon Yellow Sun';
-}
-
-
-
-
-
-
-h1 {
-    font-size: 46px!important;
-}
-h2, h3 {
-    font-size: 36px;
-}
-
-/* 
-p, li, ul {
-    font-family: "minion-pro-display";
-	font-size: 20px;
-    line-height: 1.4em;
-}
-*/
 
 #footer-info {
     font-size: 18px;
